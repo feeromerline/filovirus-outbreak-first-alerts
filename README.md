@@ -26,8 +26,13 @@ We systematically reviewed grey and scientific literature to characterize the fi
 | `Final_Extractions_All_public.xlsx` | Same dataset in Excel format |
 | `references_clean.txt` | Cleaned bibliography of all 98 source documents included in the systematic review |
 | `originalcode.r` | R script for all statistical analyses and figures in the manuscript |
-| `figures/fig6_time_by_HCW.png` | Figure 6 — Time to declaration by healthcare worker involvement |
-| `figures/fig7_time_by_signal.png` | Figure 7 — Time to declaration by first signal type |
+| `figures/fig1_alert_source_by_decade.png` | Figure 1 — First alert source by decade |
+| `figures/fig2_signal_type_by_virus.png` | Figure 2 — First signal type (single vs. cluster) by virus |
+| `figures/fig3_days_to_declaration_by_HCW.png` | Figure 3 — Days from earliest report to declaration by early HCW infections |
+| `figures/fig4_days_to_declaration_by_signal_type.png` | Figure 4 — Days from earliest report to declaration by first signal type |
+| `figures/fig5_days_to_declaration_by_decade.png` | Figure 5 — Days from earliest report to declaration by decade |
+| `figures/fig6_days_to_declaration_DRC_Uganda.png` | Figure 6 — Days to declaration over time, DRC and Uganda |
+| `figures/fig7_days_to_declaration_over_time.png` | Figure 7 — Days to declaration over time, all outbreaks with trend lines |
 
 ---
 
