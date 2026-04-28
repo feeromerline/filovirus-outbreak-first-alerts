@@ -24,7 +24,7 @@ We systematically reviewed grey and scientific literature to characterize the fi
 |------|-------------|
 | `Final_Extractions_All_public.csv` | Public extraction dataset: 99 source-document rows covering 46 unique outbreaks (CSV) |
 | `Final_Extractions_All_public.xlsx` | Same dataset in Excel format |
-| `references_clean.txt` | Cleaned bibliography of all 98 source documents included in the systematic review |
+| `references_clean.txt` | Cleaned bibliography of all 99 source documents included in the systematic review |
 | `originalcode.r` | R script for all statistical analyses and figures in the manuscript |
 | `figures/fig1_alert_source_by_decade.png` | Figure 1 — First alert source by decade |
 | `figures/fig2_signal_type_by_virus.png` | Figure 2 — First signal type (single vs. cluster) by virus |
